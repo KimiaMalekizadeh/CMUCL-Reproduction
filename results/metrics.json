@@ -1,0 +1,14 @@
+{
+ "dataset": "Citeseer",
+ "n_nodes": 576,
+ "n_nodes_full": 3186,
+ "trained": true,
+ "rounds": 256,
+ "seed": 1,
+ "auc_all": 85.48,
+ "ap_all": 14.03,
+ "auc_covered": 85.48,
+ "ap_covered": 14.03,
+ "auc_cons_only": 77.14,
+ "auc_stab_only": 92.58
+}

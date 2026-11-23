@@ -1,0 +1,18 @@
+# The official code was developed with torch 1.12.1 / torch-geometric 2.1.0 / Python 3.8.
+# model.py only needs torch + torch_geometric.nn.GCNConv, so newer versions are expected to work, but this is UNTESTED here.
+torch
+torch_geometric
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+networkx
+ftfy
+regex
+jupyter
+ipykernel
+nbformat
+nbclient
+gdown        # optional: automatic download of the official datasets
+psutil
